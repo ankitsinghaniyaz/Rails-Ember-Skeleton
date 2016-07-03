@@ -49,3 +49,9 @@ sudo pkill postgres
 docker ps
 docker kill {image-id}
 ```
+
+## Releated Blogs
+
+[https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application](https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application)
+
+[http://blog.jez.io/2015/07/12/docker-tips-and-cheatsheet/](http://blog.jez.io/2015/07/12/docker-tips-and-cheatsheet/)
