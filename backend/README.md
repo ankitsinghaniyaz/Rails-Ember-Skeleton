@@ -50,6 +50,12 @@ docker ps
 docker kill {image-id}
 ```
 
+
+## Adding a gem
+
+After adding gem to gemfile, you will need to do
+`docker-compose build`
+
 ## Releated Blogs
 
 [https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application](https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application)
