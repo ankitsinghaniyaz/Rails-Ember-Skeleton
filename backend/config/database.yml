@@ -1,4 +1,3 @@
-
 development:
   url: <%= ENV['DATABASE_URL'].gsub('?', '_development?') %>
 
