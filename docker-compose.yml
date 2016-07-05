@@ -6,6 +6,8 @@ frontend:
    ports:
       - "4200:4200"
       - "49152:49152"
+   volumes:
+      - ./frontend:/frontend
 
 postgres:
   image: postgres:9.4.5
